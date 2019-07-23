@@ -1,6 +1,6 @@
 # Mushroom Classification using Naive Bayes
 
-Classify different types of mushroom depending on their featues using SVM classifier.
+Classify different types of mushroom depending on their featues using Naive Bayes.
 
 ## Dataset
 
